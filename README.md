@@ -160,6 +160,31 @@ Otra opción económica pero funcional sería el **Xiaomi Mi Band 7 Pro** o el *
 Si puedes estirarte un poco más en presupuesto, el **Xiaomi Redmi Watch 3 Active** (~120 U$D) sería ideal ya que tendras mejor compatibilidad con un smartphone como el **Redmi 13C** y podría facilitar la comunicación entre dispositivos.
 
 ----
+
+### Comparación rápida de carácteristicas para guiar lo que estés buscando en un smartwatch o smartband. :  
+
+| **Característica**          | **Xiaomi Smart Band 7 Pro** | **Xiaomi Smart Band 8** | **Xiaomi Redmi Watch 3 Active** |
+|----------------------------|----------------------------|-------------------------|---------------------------------|
+| **Pantalla**               | AMOLED 1.64”               | AMOLED 1.62”            | TFT LCD 1.83”                  |
+| **Resolución**             | 280 × 456 px               | 192 × 490 px            | 240 × 280 px                   |
+| **GPS Integrado**         | ✅ Sí                       | ❌ No                    | ✅ Sí                           |
+| **Modos deportivos**       | 117+                        | 150+                     | 100+                            |
+| **Resistencia al agua**    | 5 ATM                      | 5 ATM                    | 5 ATM                           |
+| **Duración de batería**    | 12 días aprox.             | 16 días aprox.           | 12 días aprox.                  |
+| **Monitorización de salud**| FC, SpO2, Sueño, Estrés    | FC, SpO2, Sueño, Estrés  | FC, SpO2, Sueño, Estrés         |
+| **Llamadas Bluetooth**     | ❌ No                      | ❌ No                    | ✅ Sí                           |
+| **Diseño**                 | Rectangular premium        | Banda delgada            | Reloj más tradicional          |
+
+### **¿Cuál elegir?**
+
+Recomendaciones:
+- **Si quieres GPS integrado y pantalla premium:** *Xiaomi Smart Band 7 Pro*  
+- **Si buscas la mejor smartband para deporte y batería:** *Xiaomi Smart Band 8*  
+- **Si prefieres un smartwatch con llamadas Bluetooth y diseño más de reloj:** *Redmi Watch 3 Active*  
+
+**Para deporte y funcionalidad avanzada, el Smart Band 7 Pro es la mejor opción.** Pero si buscas algo más económico y con diseño de reloj, el *Redmi Watch 3 Active* es una buena alternativa (es el que elegí yo).
+
+
 ----
 
 Suerte !!
