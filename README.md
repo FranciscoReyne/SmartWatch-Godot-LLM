@@ -1,5 +1,5 @@
 # SmartWatch Godot LLM
-LLMs Games made in Godot for SmartWatch.
+LLMs Agent based Games made in Godot for SmartWatch.
 ---
 **ATENCIÓN: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN**.-
 ---
