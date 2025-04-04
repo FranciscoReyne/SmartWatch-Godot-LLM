@@ -1,7 +1,9 @@
 # SmartWatch Godot LLM
+
 LLMs Agent based Games made in Godot for SmartWatch.
+
 ---
-**-.ATENCIÓN!!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN**.-
+**ATENCIÓN !!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN**.-
 ---
 Configurar Ollama en un smartwatch de forma local plantea desafíos significativos, ya que los smartwatches tienen recursos muy limitados para ejecutar modelos de lenguaje (LLMs). A continuación te explico sus limitaciones:
 
