@@ -13,6 +13,27 @@ Configurar Ollama en un smartwatch de forma local plantea desafíos significativ
 - **Térmicos**: Los LLMs generarían sobrecalentamiento severo
 - **Batería**: Agotaría la batería en minutos
 
+----
+En resumen, mi recomendación es que no sea local el uso de LLMs en el SmartWatch. 
+
+Los modelos LLM actuales, incluso los más optimizados como DeepSeek-Lite o Phi-2, simplemente no pueden ejecutarse directamente en un smartwatch debido a las severas limitaciones de hardware. Un smartwatch típico de $100 no tiene:
+
+1. Suficiente RAM (los modelos más pequeños requieren mínimo 2-4GB)
+2. Potencia de procesamiento adecuada
+3. Capacidad térmica para manejar la carga computacional
+4. Suficiente batería para sostener el procesamiento intensivo
+
+La mejor aproximación es usar una arquitectura cliente-servidor donde:
+
+- El smartwatch actúa solo como cliente/interfaz
+- El procesamiento del LLM ocurre en un servidor, PC o dispositivo más potente
+- La comunicación se realiza mediante API REST o WebSockets
+
+Esta estructura nos permitirá crear un juego en Godot para smartwatch que aparentemente utiliza IA avanzada, pero en realidad está delegando el trabajo pesado a un sistema externo más capaz.
+
+----
+
+
 ## Alternativa viable
 
 En lugar de ejecutar Ollama en el smartwatch, lo recomendable sería:
@@ -40,7 +61,7 @@ En cuanto al juego en Godot, debemos implementar un cliente simple para comunica
 
 ---
 
-# Recursos para implementar LLM DeepSeek en Redmi 13C conectado a smartwatch
+# Recursos para implementar LLM DeepSeek en Redmi 13C conectado a SmartWatch
 
 Usaremos como ejemplo el uso de un smartphone Xiaomi Redmi 13C, que tiene especificaciones modestas (MediaTek Helio G85, 4 + 8GB RAM), lo que presenta desafíos para ejecutar LLMs. A continuación presento los recursos necesarios para hacer factible este proyecto:
 
@@ -122,7 +143,7 @@ Esta configuración consumirá menos recursos que Ollama mientras mantiene la ca
 
 
 ## SmartWatch recomendados.
-Para este proyecto específico, recomendaría el Amazfit GTS 2e o el Amazfit GTR 2e. Estos smartwatches ofrecen un buen equilibrio entre precio y características que beneficiarían al proyecto:
+Para este proyecto específico, recomendaría el **Amazfit GTS 2e o el Amazfit GTR 2e**. Estos smartwatches ofrecen un buen equilibrio entre precio y características que beneficiarían al proyecto:
 
 **Ventajas para el proyecto:**
 - Precio accesible (alrededor de $80-100 USD)
